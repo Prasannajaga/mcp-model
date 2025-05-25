@@ -8,6 +8,7 @@ packages = [
     "mcp",
     "openai",
     "dotenv",
+    ""
 ]
 
 for pkg in packages:
